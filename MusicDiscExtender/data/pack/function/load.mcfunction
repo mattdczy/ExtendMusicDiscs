@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"You have ","bold":true,"color":"blue"},{"text":"successfully","bold":true,"color":"green"},{"text":" loaded this Datapack!","bold":true,"color":"blue"}]
