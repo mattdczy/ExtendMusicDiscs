@@ -3,6 +3,6 @@
   "description": {
     "translate": "jukebox_song.minecraft.relic"
   },
-  "length_in_seconds": 200.0,
+  "length_in_seconds": 118.0,
   "sound_event": "minecraft:music_disc.relic"
 }

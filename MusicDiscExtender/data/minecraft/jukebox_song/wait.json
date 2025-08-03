@@ -3,6 +3,6 @@
   "description": {
     "translate": "jukebox_song.minecraft.wait"
   },
-  "length_in_seconds": 210.0,
+  "length_in_seconds": 648.0,
   "sound_event": "minecraft:music_disc.wait"
 }
